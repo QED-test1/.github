@@ -1,9 +1,9 @@
 # Q.E.D. Git & GitHub Study
 
 성공회대학교 정보보안 연구 소모임 Q.E.D.의  
-**Git & GitHub 스터디 실습용 Organization**입니다.
+**Git & GitHub 스터디 실습용 Organization**
 
-버전 관리와 협업의 기초를 익히고, 직접 저장소와 브랜치를 다뤄보는 것을 목표로 합니다.
+버전 관리와 협업의 기초를 익히고, 직접 저장소와 브랜치를 다뤄보는 것이 목표
 
 ## Study Topics
 
@@ -15,7 +15,7 @@
 - 레포지토리 생성 및 CLI 연결
 - stage area 등록 및 제거
 - 커밋과 커밋 메시지
-- 원격 저장소 업로드 및 최신 정보 반영 :contentReference[oaicite:4]{index=4}
+- 원격 저장소 업로드 및 최신 정보 반영
 
 ### Git & GitHub 2
 - 브랜치 생성, 전환, 삭제
